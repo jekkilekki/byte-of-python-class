@@ -9,6 +9,7 @@ for i in sys.argv:
 print('\n\nPYTHONPATH는', sys.path, ' 입니다.\n')
 
 
+
 if __name__ == '__main__':
          print('이 프로그램은 자체적으로 실행되고 있습니다.')
 else:
